@@ -4,11 +4,11 @@ A simple Chrome extension that captures screenshots and copies them directly to 
 
 ## Features
 
-- 📸 **One-Click Capture** - Instantly capture the visible area of any webpage
-- 📋 **Direct to Clipboard** - Screenshots copy directly to clipboard, ready to paste
-- 🎨 **Clean Design** - Minimalist black and white interface
-- 🔒 **Privacy First** - Minimal permissions, no data collection
-- ⚡ **Fast & Lightweight** - No background processes, instant capture
+- **One-Click Capture** - Instantly capture the visible area of any webpage
+-  **Direct to Clipboard** - Screenshots copy directly to clipboard, ready to paste
+-  **Clean Design** - Minimalist black and white interface
+-  **Privacy First** - Minimal permissions, no data collection
+-  **Fast & Lightweight** - No background processes, instant capture
 
 ## Installation
 
@@ -75,4 +75,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Author
 
-Built with ❤️ for simple, efficient screenshot capture.
+Built with  for simple, efficient screenshot capture.
